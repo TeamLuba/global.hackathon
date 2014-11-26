@@ -1,0 +1,24 @@
+{
+  "teamName": "TeamLuba",
+  "members": [
+    {
+      "name": "Nik Bailo",
+      "twitter": "alphabailo",
+      "koding": "alphabailo",
+      "location": "Kiev, UA",
+      "lead": true
+    },
+    {
+      "name": "Misha Shargorodsky",
+      "twitter": "Meyshanya",
+      "koding": "mishcka",
+      "location": "Kiev, UA"
+    },
+    {
+      "name": "Ivan Vereschaga",
+      "twitter": "IvanVereschaga",
+      "koding": "shnyaga",
+      "location": "Donetsk, UA"
+    }
+  ]
+}
